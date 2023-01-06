@@ -1,0 +1,21 @@
+.trusted_container{
+    background-color: rgb(232, 232, 232);
+    height: 30vh;
+    display: grid;
+}
+.trusted_top{
+    margin: auto;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+.trusted_icons{
+    border: 3px solid black;
+    border-radius: 35px;
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: auto;
+    padding: 1rem;
+
+
+}
